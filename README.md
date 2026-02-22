@@ -25,4 +25,4 @@ Option 4: Search cameras by location or neighborhood
 
 About:
 -----------
-Built using real City of Chicago open data. The project demonstrates practical data processing — parsing raw CSV records, aggregating statistics, and presenting insights through a clean terminal interface.
+Built using real City of Chicago open data. The project demonstrates practical data processing, parsing raw CSV records, aggregating statistics, and presenting insights through a clean terminal interface.
