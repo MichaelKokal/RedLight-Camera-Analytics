@@ -1,4 +1,6 @@
 # RedLight-Camera-Analytics
+<img width="638" height="385" alt="image" src="https://github.com/user-attachments/assets/0126c3ed-decf-490f-9722-bf9c0fc90f17" />
+
 A terminal-based data analysis tool built in C++ that processes real Chicago red light camera violation records. Users can explore trends through an interactive menu, breaking down violations by neighborhood, month, and intersection.
 Features
 
